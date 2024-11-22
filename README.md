@@ -1,8 +1,20 @@
-# React + Vite
+# 🛒 Shopping Notes
+Shopping Notes is a simple project to practice React.js. This website was created by following a [React tutorial] (https://www.youtube.com/watch?v=HX2kAHnCEjY&list=PLFIM0718LjIUu3X2zYNqomEWs3sYd-fV1&index=4), marking my first steps in building applications with React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Throughout this journey, I’ve learned a lot about React basics, but I also realized the importance of consistent practice to truly master the concepts.
 
-Currently, two official plugins are available:
+# 🌟 Features
+- Add shopping notes interactively.
+- Demonstrates state, props, and React components.
+- Built with a beginner-friendly approach.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 🎯 Goals
+- Strengthen my understanding of React.
+- Improve my skills in building interactive web applications.
+- Explore more advanced React features in future projects.
+
+# 🎥 Reference
+Tutorial: [React Crash Course by Programmer Zaman Now](https://www.youtube.com/watch?v=HX2kAHnCEjY&list=PLFIM0718LjIUu3X2zYNqomEWs3sYd-fV1&index=4).
+
+# 📬 Feedback
+Feel free to share your feedback and suggestions! You’re welcome to open an issue or submit a pull request. 😊
